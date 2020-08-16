@@ -1,2 +1,1 @@
-# blender360
-Meu primeiro projeto 360
+Projeto final:
